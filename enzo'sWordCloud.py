@@ -8,8 +8,8 @@ from matplotlib import cm
 import os
 
 # Your Spotify API credentials
-CLIENT_ID = "your client id goes here" 
-CLIENT_SECRET = "your client secret goes here"
+CLIENT_ID = "3bafa92b54e24aef909089c1f49b8355" 
+CLIENT_SECRET = "3c23b3b0c0454f4bb6002511a1c9f568"
 
 # Playlist ID
 playlist_id = '3VtimHRIoZ0InHM0gkIBcs'
